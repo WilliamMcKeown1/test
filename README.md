@@ -1,2 +1,2 @@
-# test
+# Drexel CCI Camp
 test project
